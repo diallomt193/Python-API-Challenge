@@ -3,6 +3,6 @@ api_keys.py
 API_practice.ipynb
 random_numbers.ipynb
 .DS_Store
-__pycache__ 
+__pycache__/
 *.pyc
 
